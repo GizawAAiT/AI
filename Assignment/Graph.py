@@ -1,6 +1,5 @@
 from unicodedata import name
 
-
 class Node:
 
     def __init__(self, name):
@@ -42,7 +41,8 @@ class Graph:
        
         left.connect((right,weight))
         right.connect((left,weight))
-      
+    
+    
     def search(self, a, b):
         pass
 

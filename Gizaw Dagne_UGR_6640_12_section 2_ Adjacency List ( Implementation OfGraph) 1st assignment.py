@@ -1,3 +1,4 @@
+
 """ First Lab Assignment.
 Adjacency list implementation of Graph."""
 
